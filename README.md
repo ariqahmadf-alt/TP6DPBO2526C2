@@ -283,7 +283,10 @@ di samping file `.class`. IntelliJ melakukannya secara otomatis.
 
 Video program yang dijalankan: [Dokumentasi/demo.mp4](Dokumentasi/demo.mp4)
 
-<video src="https://github.com/ariqahmadf-alt/TP6DPBO2526C2/raw/main/Dokumentasi/demo.mp4" controls width="360"></video>
+
+https://github.com/user-attachments/assets/5336be24-3e74-4bb9-a29f-13079712986b
+
+
 
 Video memperlihatkan menu utama, permainan berjalan beserta skor, layar Game Over, mengulang
 permainan dengan tombol R, dan keluar dari program.
