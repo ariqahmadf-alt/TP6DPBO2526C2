@@ -1,0 +1,5 @@
+# Hasil kompilasi dan berkas IDE
+out/
+*.class
+.idea/
+*.iml
